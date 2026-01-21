@@ -1,5 +1,5 @@
 # UMAFall-related-scripts
-Code and Matalb scripts used in the following papers about Fall Detection Systems based on wearables:
+Code and Matalb scripts used in the following papers about Fall Detection Systems based on wearables auuthored by E.Casilari:
 
 -Casilari, Eduardo; Lora-Rivera, Raúl; García-Lagos, Francisco. 2020. A study on the application of convolutional neural networks to fall detection evaluated with multiple public datasets. Sensors. 20-5, pp.1466-1466. 
 
